@@ -2,10 +2,10 @@
 FoodExpress is a multifunctional food orders tracking system which allow the customers to track their orders. The user have privilege to choose order services whereas the owner/admin has options to update the order details.
 
 Major Highlights:
--> Admin Login and Status Check features.
--> Feature to add orders and order delivery details.
--> Tracking order using user id and password.
--> New managers can be added.
+1. Admin Login and Status Check features.
+2. Feature to add orders and order delivery details.
+3. Tracking order using user id and password.
+4. New managers can be added.
 
 How to make this run - 
 
